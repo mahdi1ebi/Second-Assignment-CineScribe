@@ -35,7 +35,10 @@ Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
-
+1. you can learn API very well by watching jadis video on youtube.
+2. you can learn JSON by using YOUTUBE , AI , https://stackoverflow.com/ and https://www.geeksforgeeks.org/ ....
+3. you have to learn how to use try and catch in java .
+    
 ## Authors
 
 Contributors names and contact info
