@@ -1,26 +1,29 @@
 # Project Title
 
-Simple overview of use/purpose.
+Movies & actors Searching.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This program is for finding the profile of your favorite movie and actor.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+
+* To use this program you need to download gradle 8.6 & imporst org.json.JSONObject & org.json.JSONArray libraries.
+
 
 ### Installing
 
 * How/where to download your program
+* You can download my program from my github account in develop branch.
 * Any modifications needed to be made to files/folders
 
 ### Executing program
 
 * How to run the program
+* After you download the gradle 8.6 , you need to add gradel in configuration and run te program
 * Step-by-step bullets
 ```
 code blocks for commands
@@ -32,26 +35,30 @@ Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
-
+1. you can learn API very well by watching jadis video on youtube.
+2. you can learn JSON by using YOUTUBE , AI , https://stackoverflow.com/ and https://www.geeksforgeeks.org/ ....
+3. you have to learn how to use try and catch in java .
+    
 ## Authors
 
 Contributors names and contact info
+Amir Mahdi Ebrahimi 
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
-
+*0.4
+   *Learn JSON and JSONOBject (using youtueb and AI)
+*0.3
+   * Learn API and how its work (using jadi video in youtube)
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Get API key from api ninjas & OMDb API and add to program 
 * 0.1
     * Initial Release
 
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
+SBU CS402
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
