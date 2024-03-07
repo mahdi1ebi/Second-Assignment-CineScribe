@@ -71,7 +71,7 @@ public class Movie {
 
         }
 
-        return  "Rating :" + rating;
+        return  rating;
     }
 
     public String getActorListViaApi(String moviesInfoJson){
